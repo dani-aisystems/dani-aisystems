@@ -1,4 +1,4 @@
-### Hi, I'm Daniel — I design and ship AI agents, automations, and developer tools.
+### Hi, I'm Daniel. I design and ship AI agents, automations, and developer tools.
 
 I build with Claude Code, MCP, and modern AI tooling — deliberately, with the engineering
 judgment to verify and correct what they produce rather than take it on faith.
